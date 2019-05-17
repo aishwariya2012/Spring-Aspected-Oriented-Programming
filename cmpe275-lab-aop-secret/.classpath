@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="cmpe275-lab-aop-secret/src/main/java"/>
+	<classpathentry kind="src" path="cmpe275-lab-aop-secret/src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="cmpe275-lab-aop-secret/target/classes"/>
+</classpath>
